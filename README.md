@@ -7,7 +7,6 @@ A command-line AI chatbot built using Amazon Bedrock Agents and Node.js. This ap
 - 🌍 Built using **Amazon Bedrock's Agent Runtime**.
 - 🧑‍💻 Full CLI-based experience with prompt-style input.
 - 📡 Supports **streamed, word-by-word** output for human-like response flow.
-- ⚡ Lightweight and fast – no unnecessary dependencies.
 
 ## 📦 Requirements
 
