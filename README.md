@@ -36,9 +36,9 @@ cd Bedrock-agent-stream
 ## Running the Chatbot
 
 ### 1. Run in the terminal: 
-
+```
 node index.mjs
-
+```
 You should see:
 
 ```
