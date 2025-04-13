@@ -19,16 +19,20 @@ A command-line AI chatbot built using Amazon Bedrock Agents and Node.js. This ap
 
 - aws-sdk
 
-### Installation: 
-npm install @aws-sdk/client-bedrock-agent-runtime 
+## Installation: 
+```
+npm install @aws-sdk/client-bedrock-agent-runtime
+```
 
 
 ## 🔧 Setup
 
-### 1. Clone this repository
+### Clone this repository
 
-git clone https://github.com/Sarimsaljook/Bedrock-agent-stream.git
+```
+git clone https://github.com/Sarimsaljook/Bedrock-agent-stream.git 
 cd Bedrock-agent-stream
+```
 
 ## Running the Chatbot
 
@@ -48,5 +52,7 @@ You:
 
 💬 Example Interaction
 
+```
 You: Hello, what can you do?
 Bot: I am an AI assistant. I can help you with information, tasks, or just a friendly conversation!
+```
